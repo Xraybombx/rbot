@@ -1,0 +1,22 @@
+{
+  "name": "realmscord-phoenix",
+  "version": "1.0.1",
+  "description": "Connects a Discord channel with the in-game chat on a Minecraft Bedrock realm or server using bedrock-protocol and discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "keywords": ["minecraft", "bedrock", "mcpe", "mcbe", "discord", "bot"],
+  "author": "DJ Stomp#2525",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bedrock-protocol": "^3.20.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.22.0",
+    "discord.js": "^13.1.0",
+    "protodef": "^1.15.0",
+    "prismarine-auth": "^1.7.0",
+    "typescript": "^4.8.3"
+  }
+}

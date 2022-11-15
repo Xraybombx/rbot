@@ -1,0 +1,8 @@
+
+Pinging e13678.dscb.akamaiedge.net [23.39.62.16] with 32 bytes of data:
+Reply from 23.39.62.16: bytes=32 time=29ms TTL=56
+
+Ping statistics for 23.39.62.16:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 29ms, Maximum = 29ms, Average = 29ms

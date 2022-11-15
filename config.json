@@ -1,0 +1,19 @@
+{
+	"clientId": "1024870654371188738",
+	"guildId": "1021560190899855411",
+	"relaychannel": "1023332146959630336",
+	"modlogschannel": "1038945350427344976",
+	"token": "MTAyNDg3MDY1NDM3MTE4ODczOA.GrrbK7.3b2jGWgthM1fQFMZ5oaOrBf5jqJhOxVujPJkyM",
+	"realmName": "Withanian",
+	"realminvite": "https://realms.gg/LPQ5-2Dsybs",
+        "botName": "Blink Automod",
+
+		"banneddevices": ["Windows", "Android"],
+		"realmtodiscord": true,
+		"discordtorealm": true,
+		"minimumgamerscore": "1000",
+		"ignoreps4andxbox": true,
+
+		"devmode": true
+	
+}
